@@ -18,6 +18,7 @@ Interview-attack/\
 
 ## How does it work?
 1. Clone the repository.
+   >git clone <RepositoryName>
 2. Run:
     >npm install
 3. During installation the educational postinstall script runs automatically.
