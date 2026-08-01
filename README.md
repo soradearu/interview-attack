@@ -23,7 +23,7 @@ Interview-attack/\
     >npm install
 3. During installation the educational postinstall script runs automatically.\
   -Check your console logs.\
-  -Check what was generated after running the "npm install" lifecycle command.\
+  -Check what was generated after running the "npm install" lifecycle command.
     >analysis-report.txt
 5. You can also run the application. There is a simple interview form.
     >npm run dev
