@@ -5,6 +5,27 @@ import os from "node:os";
 console.log("========================================");
 console.log(" Interview Attack - Educational Demo");
 console.log("========================================");
+console.log("    ");
+console.log("You have just executed a lifecycle script.");
+console.log("    ");
+console.log("What did this script do?");
+console.log("✓ Printed this message");
+console.log("✓ Read Node version");
+console.log("✓ Read operating system");
+console.log("✓ Created analysis-report.txt");
+console.log("   ");
+console.log("What could a malicious script do?");
+console.log("• Download additional code");
+console.log("• Collect environment information");
+console.log("• Attempt to contact an external service(C&C).");
+console.log("• Implement a back door.");
+console.log("  ");
+
+console.log("This project intentionally does none of those things.");
+
+
+
+
 
 const report = `========================================
 Interview Attack Analysis Report
